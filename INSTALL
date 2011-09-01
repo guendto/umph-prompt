@@ -1,0 +1,28 @@
+
+
+PREREQUISITES
+
+  * Perl 5.10.1+
+
+Additionally (to build):
+  * ExtUtils::MakeMaker <http://search.cpan.org/perldoc?ExtUtils::MakeMaker>
+
+
+INSTALLATION
+
+To install this module, type the following:
+
+  perl Makefile.PL
+  make
+  make test (optional)
+  make install (see notes below)
+
+You can define the installation prefix with INSTALL_BASE, e.g.:
+  perl Makefile.PL INSTALL_BASE=/usr/local
+
+Recommended reading:
+  * <http://search.cpan.org/perldoc?ExtUtils::MakeMaker>
+  * <http://perldoc.perl.org/ExtUtils/MakeMaker/FAQ.html>
+
+
+vim: set ts=2 sw=2 tw=72 expandtab:

@@ -1,0 +1,16 @@
+
+
+GENERAL
+
+Umph::Prompt is an interactive prompt module for umph and
+similar programs.
+
+Home  : <http://umph.googlecode.com/>
+gitweb: <http://repo.or.cz/w/umph-prompt.git>
+
+
+LICENSE
+
+Umph::Prompt is free software, licensed under the LGPLv2.1+.
+
+vim: set ts=2 sw=2 tw=72 expandtab:

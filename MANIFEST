@@ -1,0 +1,13 @@
+COPYING
+NEWS
+Makefile.PL
+ChangeLog
+MANIFEST
+MANIFEST.SKIP
+README
+INSTALL
+t/Umph-Prompt.t
+lib/Umph/Prompt.pm
+scripts/wrap
+examples/basic.pl
+examples/rand.pl

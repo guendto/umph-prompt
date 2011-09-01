@@ -1,0 +1,6 @@
+todo/
+patches/
+*.patch
+*.gz
+Makefile.old
+*~
